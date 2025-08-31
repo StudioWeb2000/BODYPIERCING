@@ -169,3 +169,4 @@ document.getElementById("formulario-pedido").onsubmit = (e) => {
   actualizarCarrito();
   formWhats.style.display = "none";
 }
+
